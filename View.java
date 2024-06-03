@@ -12,7 +12,7 @@ import java.io.File;
 public class View {
     public static void start () {
         JFrame frame = new JFrame("Silindri ja Kera kalkulaator");
-        frame.setSize(500, 300);
+        frame.setSize(640, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         //Saame JavaKujundid.txt asukoht ja lisame label'sse
